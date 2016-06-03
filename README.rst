@@ -20,4 +20,4 @@ To be determined...
 Contact
 =======
 
-Zachary J. Denman <zachary.denman@outlook.com>
+`Zachary J. Denman <zachary.denman@outlook.com>`_

@@ -20,7 +20,4 @@ To be determined...
 Contact
 =======
 
-Zachary J. Denman <zachary.denman@uq.edu.au>
-Ph.D. Candidate
-Centre for Hypersonics
-University of Queensland
+Zachary J. Denman <zachary.denman@outlook.com>
